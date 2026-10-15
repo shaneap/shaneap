@@ -8,7 +8,7 @@ Looking for data scientist and ML engineer roles.
   what each table is worth per 15 minutes, which will feed seating optimization and demand forecasting.
 - **VAI Lab (research assistant):** building an Android app that helps blind and low vision
   users find and understand charts in real time through Meta smart glasses.
-- **Next up:** studying how surprise Fed rate decisions pass through to household debt.
+- **Next up:** studying how surprise Fed rate decisions pass through to household debt (Buy Now, Pay Later focus).
 
 ### Selected projects
 | Project | What it does |
